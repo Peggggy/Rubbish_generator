@@ -14,11 +14,11 @@
 ## 安裝與執行步驟
 * 下載專案至本機
 ```
-git clone https://github.com/Peggggy/Restaurant_list.git 
+git clone https://github.com/Peggggy/Rubbish_generator.git 
 ```
 * 前往專案資料夾
 ```
-cd restaurant_list
+cd rubbish_generator
 ```
 * 安裝套件
 ```
